@@ -13,3 +13,4 @@ You can also just google MuckRock + agnency or jurisdiction name and grab the nu
 
 # Data Dictionary
 
+Many pieces of the data dictionary live on [status](blob/master/status.md).
